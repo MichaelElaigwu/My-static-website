@@ -48,30 +48,3 @@ STEP 4
 3. click only on "index.html" on the object
 4. Above copy the url.
 5. Paste the url on your browser to view your static website.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- frank.egwu@nvit.tech
-john.enoh@nvit.tech
